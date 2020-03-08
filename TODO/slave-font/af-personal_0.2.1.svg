@@ -31,8 +31,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1"
-     inkscape:cx="167.39971"
-     inkscape:cy="437.38612"
+     inkscape:cx="525.18429"
+     inkscape:cy="398.1864"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -771,6 +771,28 @@
        id="path1201"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:14.72099781px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.36802495"
+       x="38.462158"
+       y="269.08005"
+       id="text1239"><tspan
+         sodipodi:role="line"
+         id="tspan1237"
+         x="38.462158"
+         y="269.08005"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:DS-Digital;-inkscape-font-specification:'DS-Digital Bold';stroke-width:0.36802495">Floppy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.52810669px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.33820266"
+       x="117.46322"
+       y="268.44775"
+       id="text1243"><tspan
+         sodipodi:role="line"
+         id="tspan1241"
+         x="117.46322"
+         y="268.44775"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Bauernschrift;-inkscape-font-specification:Bauernschrift;stroke-width:0.33820266">Aquila</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
