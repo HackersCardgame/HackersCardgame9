@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
-   sodipodi:docname="sklavenVertrag2020-font.svg"
+   sodipodi:docname="sklavenVertrag20200308.svg"
    inkscape:export-filename="/home/marc/Daten.2020/code/HackersCardgame7/TODO/slave-font/sklavenVertrag20200209.png"
    inkscape:export-xdpi="241.89999"
    inkscape:export-ydpi="241.89999">
@@ -28,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.5019781"
-     inkscape:cx="854.44707"
-     inkscape:cy="26.03556"
+     inkscape:zoom="0.53102945"
+     inkscape:cx="1152.6404"
+     inkscape:cy="400.74079"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
