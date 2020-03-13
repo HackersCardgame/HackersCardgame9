@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.2338439"
-     inkscape:cx="114.68301"
-     inkscape:cy="197.49581"
+     inkscape:zoom="4.7768018"
+     inkscape:cx="139.84252"
+     inkscape:cy="97.939554"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -202,7 +202,9 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara5119" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5121">If you have a production line (that can be abused to programm stimulus-reaction-habits), the line can have several different states, so you have to define the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
+         id="flowPara5121">If you have a production line (that can be abused to programm stimulus-response habits), the line can have several different states, so you have to define the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara1245" /><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5125">The same principle is unfortunately also abused </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
@@ -213,7 +215,7 @@
    id="flowSpan5137">Normal</flowSpan>: loop { you will be raped } =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5131">2. <flowSpan
-   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#ffff00"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#808000"
    id="flowSpan5139">Annoyed</flowSpan>: someone says &quot;Fu** your Mother&quot; =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5143">3. <flowSpan
