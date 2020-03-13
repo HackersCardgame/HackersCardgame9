@@ -16,7 +16,7 @@ fi
 
 
 clear
-
+killall clipit
 pngpath=$(dirname $(pwd))/png
 mkdir -p $pngpath/$1/
 find ../cards/$1 -name "*.svg" >./PNGs.txt
@@ -30,7 +30,7 @@ for i in $(cat ./PNGs.txt)
   let counter=counter+1
   echo $counter
   /usr/bin/inkscape $i &
-  sleep 3
+  sleep 4
   xdotool key Ctrl+Alt+a
   sleep 2
   xdotool key Ctrl+Shift+e
@@ -57,11 +57,7 @@ for i in $(cat ./PNGs.txt)
   xdotool key KP_Enter
   sleep 0.3
   #xdotool key Alt+e
-  sleep 1
-  xdotool key Ctrl+w
-  sleep 1
-  xdotool key Alt+F4
   sleep 2
-  xdotool key Alt+w
+  killall inkscape
 done
 
