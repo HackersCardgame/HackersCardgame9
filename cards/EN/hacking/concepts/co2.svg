@@ -105,11 +105,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.196517"
-     inkscape:cx="111.05205"
+     inkscape:zoom="2.1242262"
+     inkscape:cx="139.84252"
      inkscape:cy="198.4252"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -198,11 +198,11 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5133">You could maybe also use some similar concept like rawhammer attack but on the mind (eg t1 card). Question an innocent victim if he / she wants to commit suicide, if you do this long enough this thought would be burnt into his / her mind and maybe then cause a real suicide attempt. Never play &quot;red team&quot; always play &quot;blue team&quot;. This red team action could maybe would kill a victim, and then they would play dt1 card (but then you are guilty)</flowPara><flowPara
+         id="flowPara5133">See Rowhammer Attack the Computer variant. Similar to that concept one can do some sort of an attack on the mind (eg t1 card). Question an innocent victim if he / she wants to commit suicide, maybe different questions that all means the same main question, &quot;would you like to commit suicide&quot;, if you do this long enough this thought would be burnt into his / her mind and maybe then cause a real suicide (attempt). </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5281" /><flowPara
+         id="flowPara5283"></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5283">maybe in conjunction with co1 card</flowPara></flowRoot>    <text
+         id="flowPara1243">maybe in conjunction with co1, m38 cards</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
@@ -498,12 +498,14 @@
            y="11.64042"
            x="40.941513"
            sodipodi:role="line"
-           id="tspan4912">RawHammer Attack</tspan><tspan
+           id="tspan4912">RowHammer Attack</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3, ';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
            y="16.393944"
            x="40.941513"
            sodipodi:role="line"
-           id="tspan5178">of the Mind</tspan></text>
+           id="tspan5178">of <tspan
+   style="fill:#ffff00"
+   id="tspan1234">the Mind</tspan></tspan></text>
     </g>
     <g
        inkscape:label="headerTextMonospace"
