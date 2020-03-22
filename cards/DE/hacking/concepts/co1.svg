@@ -106,8 +106,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="4.7768018"
-     inkscape:cx="139.84252"
-     inkscape:cy="97.939554"
+     inkscape:cx="101.32302"
+     inkscape:cy="117.51129"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -198,35 +198,27 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          id="flowPara3350"
-         style="text-align:justify;text-anchor:start">https://en.wikipedia.org/wiki/UML_state_machine</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;text-anchor:start">https://en.wikipedia.org/wiki/UML_state_machine</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5119" /><flowPara
+         id="flowPara5125">Wenn man eine Produktionslinie hat (die dazu missbraucht werden kann Stimuli-Reaktions-Habits zu konditionieren) hat diese mehrer verschiedene Zustände und Zustandsübergänge (eg. Eventtriger für den Wechsel des Zustandes, t14 Karte), siehe zB. Siemens S7 SPS</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5121">If you have a production line (that can be abused to programm stimulus-response habits), the line can have several different states, so you have to define the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
+         id="flowPara467" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara1245" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5125">The same principle is unfortunately also abused </flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5127">aganist humans or even children: </flowPara><flowPara
+         id="flowPara5127">Das selbe Konzept wird leider auch bei Menschen missbraucht (siehe m98, m99 Karte): </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara11570">1. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#008000"
-   id="flowSpan5137">Normal</flowSpan>: loop { you will be raped } =&gt;</flowPara><flowPara
+   id="flowSpan5137">Normal</flowSpan>: loop { Du wirst (Cyber-)Vergewaltigt } =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5131">2. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#808000"
-   id="flowSpan5139">Annoyed</flowSpan>: someone says &quot;Fu** your Mother&quot; =&gt;</flowPara><flowPara
+   id="flowSpan5139">Annoyed</flowSpan>: jemand sagt &quot;Fu** your Mother&quot; =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5143">3. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#ff0000"
    id="flowSpan5145">Rage</flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5153" /><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5155">Induced with eg t1 or t* card</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara5133" /></flowRoot>    <text
+         id="flowPara5133">Induziert mit Technologie-Karten (t*)</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
