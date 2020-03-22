@@ -105,9 +105,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4.2484524"
-     inkscape:cx="112.79465"
-     inkscape:cy="112.05935"
+     inkscape:zoom="4.7768018"
+     inkscape:cx="139.84252"
+     inkscape:cy="97.939554"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -187,7 +187,7 @@
        xml:space="preserve"
        id="flowRoot3256"
        style="font-style:normal;font-weight:normal;font-size:8px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
+       transform="matrix(0.26458333,0,0,0.26458333,0,2.6458334)"
        inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/co1.png"
        inkscape:export-xdpi="363.92001"
        inkscape:export-ydpi="363.92001"><flowRegion
@@ -202,31 +202,31 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara5119" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5121">Wenn man eine Produktionsstrasse hat (welche dazu missbraucht werden kann Verhaltensmuster zu prägen), die Produktionsstrasse kann verschiedene Zustände haben (z.B. gibt es EventTrigger) siehe Siemens S7 SPS</flowPara><flowPara
+         id="flowPara5121">If you have a production line (that can be abused to programm stimulus-response habits), the line can have several different states, so you have to define the states and how / when (eg. eventtrigger) they change, see eg. Siemens S7 PCL</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara1274" /><flowPara
+         id="flowPara1245" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5127">Das gleiche Prinzip wird leider auch anderswo missbraucht (m98,m99): </flowPara><flowPara
+         id="flowPara5125">The same principle is unfortunately also abused </flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara5127">aganist humans or even children: </flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara11570">1. <flowSpan
    style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#008000"
-   id="flowSpan5137">Normal</flowSpan>: <flowSpan
-   style="fill:#ff0000"
-   id="flowSpan1270">loop { you will be raped }</flowSpan> =&gt;</flowPara><flowPara
+   id="flowSpan5137">Normal</flowSpan>: loop { you will be raped } =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5131">2. <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808000"
-   id="flowSpan1266">Genervt</flowSpan>: jemand sagt &quot;<flowSpan
-   style="fill:#800000"
-   id="flowSpan1272">fi** deine Mutter</flowSpan>&quot; =&gt;</flowPara><flowPara
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#808000"
+   id="flowSpan5139">Annoyed</flowSpan>: someone says &quot;Fu** your Mother&quot; =&gt;</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5143">3. <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#ff0000"
-   id="flowSpan1276">Aggression</flowSpan></flowPara><flowPara
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Monospace;-inkscape-font-specification:'Monospace Bold Italic';fill:#ff0000"
+   id="flowSpan5145">Rage</flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara5153" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara5133">Induziert mit z.B. t1 or t* Karte</flowPara></flowRoot>    <text
+         id="flowPara5155">Induced with eg t1 or t* card</flowPara><flowPara
+         style="text-align:justify;text-anchor:start"
+         id="flowPara5133" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
