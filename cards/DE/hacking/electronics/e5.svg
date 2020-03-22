@@ -115,8 +115,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1973016"
-     inkscape:cx="54.738136"
-     inkscape:cy="198.4252"
+     inkscape:cx="-29.000937"
+     inkscape:cy="196.60479"
      inkscape:document-units="mm"
      inkscape:current-layer="layer26"
      showgrid="false"
@@ -228,7 +228,7 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot3256"
-       style="font-style:normal;font-weight:normal;font-size:6.66667175px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-weight:normal;font-size:8.0050921px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
        transform="matrix(0.26458333,0,0,0.26458333,0,2.1166667)"
        inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame5/png/EN/e5.png"
        inkscape:export-xdpi="363.92001"
@@ -239,18 +239,14 @@
            height="152.02795"
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara522"><flowSpan
-   id="flowSpan7562"
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;text-anchor:start;fill:#008000">https://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor </flowSpan>This Sensor can detect light, Infrared, Electromagnetism (x,y,z), Temperature, Sound.... and it has synthetic sensor (calculated dy[n]/dt) those things will then <flowSpan
-   style="fill:#008000"
-   id="flowSpan587">matched to a matrix of learned events</flowSpan>. So it can detect for example that you enabled the microwave oven (Electromagnetism &amp;&amp; Sound of the fan that cools down the Magnetron). unfortunately Satan can also detect if a inncoent girl uses her private epilator. If it is enabled and disabled over a period more than 10 minutes. <flowSpan
-   style="fill:#ff0000"
-   id="flowSpan583">Most likely they then add pedophile old people to her / his stream and sell the her or both non-consensually as bitches. This would lead to avoidance behavior for body-care and in Switzerland they then could you put in a <flowSpan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
-   id="flowSpan7564">Mental Institution for neglect Swiss: ZGB Art. 426. They changed that now and try to hack medulla spinalis implant on this event, pedophilie people like urs, astrid and Pfisterer obfuscate hacking attack to kill innocent boys and girls.</flowSpan></flowSpan></flowPara><flowPara
          style="text-align:justify;text-anchor:start;fill:#ff0000"
-         id="flowPara570" /></flowRoot>    <text
+         id="flowPara570"><flowSpan
+   id="flowSpan526"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;text-anchor:start;fill:#008000">https://hackaday.com/2017/05/19/sense-all-the-things-with-a-synthetic-sensor </flowSpan><flowSpan
+   id="flowSpan521"
+   style="text-align:justify;text-anchor:start;fill:#000000">Dieser sensor kann Licht, Infrarot, Elektromagnetismus (x,y,z), Temperatur, Töne...erkennen, und er hat &quot;Synthetische Sensoren&quot; (berechnet dy[n]/dt) in <flowSpan
+   style="fill:#008000"
+   id="flowSpan587">gelernte Ereignisse in eine Matrix übertragen</flowSpan>. So kann er z.B. erkennen wenn man den Herd einschaltet (Wärme &amp;&amp; Ton  &amp;&amp; Fingerabdruck des Magnetrons). Leider erkennt Satan damit auch, wenn eine junge Frau ihr Epiliergerät verwendet. </flowSpan>Körperpflege ist eine Vulnerable Phase und es ist wahrscheinlich, dass Satan dann unliebsame alte eklige Herren aus dem Umfeld in ihren &quot;Stream&quot; reinschaltet um diese Vulnerability zu missbrauchen.</flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
