@@ -115,10 +115,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:cx="54.338452"
+     inkscape:cy="196.56642"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -239,7 +239,7 @@
            height="152.02795"
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
-         style="text-align:justify;text-anchor:start"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';text-align:justify;text-anchor:start;fill:#808000"
          id="flowPara21823">Assembler Coding...</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara44765">https://media.ccc.de/v/25c3-2874-en-the_ultimate_commodore_64_talk</flowPara><flowPara
@@ -256,7 +256,9 @@
          style="text-align:justify;text-anchor:start"
          id="flowPara44775" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara44777">To learn Assembler and Computer Architecture the easy and funny way... with smooth SID-like sound :)</flowPara><flowPara
+         id="flowPara44777">To learn Assembler and Computer Architecture the easy and funny way... with smooth SID-like sound :) <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan501">but in ~1995 they already listed 14 year old kids that bought assembler books</flowSpan>.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara44773" /></flowRoot>    <text
        xml:space="preserve"

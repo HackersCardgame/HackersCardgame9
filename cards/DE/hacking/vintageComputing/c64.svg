@@ -115,10 +115,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:cx="54.338452"
+     inkscape:cy="196.56642"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="layer26"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -133,7 +133,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -240,25 +240,29 @@
            x="32.526913"
            y="210.88132" /></flowRegion><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara21823">Assembler Coding...</flowPara><flowPara
+         id="flowPara21823">Assembler Programmieren...</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara44765">https://media.ccc.de/v/25c3-2874-en-the_ultimate_commodore_64_talk</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara45765" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara45767">Even better:</flowPara><flowPara
+         id="flowPara45767">noch besser:</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara44767">https://media.ccc.de/v/33c3-8029-the_ultimate_game_boy_talk</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
          id="flowPara44769" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara44771">Calling it &quot;Ultimate Talk&quot; is ultimately correct, WOW really fu**** great work</flowPara><flowPara
+         id="flowPara44777">Es den &quot;Ultimate Talk&quot; zu nennen ist ultimativ richtig, richtig fu**** grossartige Arbeit.</flowPara><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara44775" /><flowPara
+         id="flowPara544" /><flowPara
          style="text-align:justify;text-anchor:start"
-         id="flowPara44777">To learn Assembler and Computer Architecture the easy and funny way... with smooth SID-like sound :)</flowPara><flowPara
-         style="text-align:justify;text-anchor:start"
-         id="flowPara44773" /></flowRoot>    <text
+         id="flowPara546">Assembler &amp; Computerarchitektur lernen einfachen und lustigen Weg mit smooth SID-like sound :) <flowSpan
+   style="fill:#ff0000"
+   id="flowSpan552">aber scheinbar haben die ~1995 bereits Kinder erfasst und gelistet die Assembler Bücker kauften</flowSpan></flowPara><flowPara
+         style="text-align:justify;text-anchor:start;fill:#ff0000"
+         id="flowPara44773" /><flowPara
+         style="text-align:justify;text-anchor:start;fill:#ff0000"
+         id="flowPara548" /></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:3.52777767px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="42.28204"
