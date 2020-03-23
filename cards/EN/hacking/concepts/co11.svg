@@ -106,10 +106,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="155.46996"
+     inkscape:cx="68.107108"
      inkscape:cy="187.40919"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g987"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -529,7 +529,7 @@
          id="text985"
          y="11.389129"
          x="42.003956"
-         style="font-style:normal;font-weight:normal;font-size:3.52777786px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
+         style="font-style:normal;font-weight:normal;font-size:3.52777791px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3224555"
          xml:space="preserve"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/co10.png"
          inkscape:export-xdpi="363.92001"
@@ -538,12 +538,12 @@
            y="11.389129"
            x="42.003956"
            sodipodi:role="line"
-           id="tspan17713">brain implants info</tspan><tspan
+           id="tspan34018">brain implants</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:FreeMono;-inkscape-font-specification:'FreeMono Bold';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.3224555"
-           y="15.425816"
+           y="15.058845"
            x="42.003956"
            sodipodi:role="line"
-           id="tspan34018">deffence Statemachine</tspan></text>
+           id="tspan879">disassembly protection</tspan></text>
     </g>
     <g
        inkscape:groupmode="layer"
