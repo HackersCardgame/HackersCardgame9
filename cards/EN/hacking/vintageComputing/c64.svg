@@ -115,10 +115,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.1519444"
-     inkscape:cx="54.338452"
-     inkscape:cy="196.56642"
+     inkscape:cx="-31.165616"
+     inkscape:cy="194.70764"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g3145"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -718,7 +718,7 @@
            y="14.286251"
            x="41.999847"
            sodipodi:role="line"
-           id="tspan4165">c64 assembler</tspan></text>
+           id="tspan4165">c64 assembly</tspan></text>
     </g>
     <g
        inkscape:label="headerTextMonospace"
