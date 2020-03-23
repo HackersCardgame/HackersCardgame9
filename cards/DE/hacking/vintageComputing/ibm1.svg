@@ -115,10 +115,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.078869"
-     inkscape:cx="139.84252"
-     inkscape:cy="198.4252"
+     inkscape:cx="51.332854"
+     inkscape:cy="196.50108"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer26"
+     inkscape:current-layer="g3145"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
@@ -705,18 +705,23 @@
        inkscape:groupmode="layer">
       <text
          id="text3143"
-         y="14.286251"
+         y="11.111255"
          x="41.999847"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;line-height:1.25;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.17499995px;line-height:1.25;font-family:'Rubik One';-inkscape-font-specification:'Rubik One';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/marc/Daten.2019/code/HackersCardgame3/png/EN/ibm1.png"
          inkscape:export-xdpi="363.92001"
          inkscape:export-ydpi="363.92001"><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3, ';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="14.286251"
+           y="11.111255"
            x="41.999847"
            sodipodi:role="line"
-           id="tspan4165">Vintage Computing</tspan></text>
+           id="tspan497">Alte</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'MineCrafter 3';-inkscape-font-specification:'MineCrafter 3, ';text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
+           y="15.864779"
+           x="41.999847"
+           sodipodi:role="line"
+           id="tspan501">Computer-systeme</tspan></text>
     </g>
     <g
        inkscape:label="headerTextMonospace"
