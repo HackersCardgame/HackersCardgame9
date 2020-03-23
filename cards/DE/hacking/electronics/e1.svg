@@ -105,17 +105,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="12.196517"
-     inkscape:cx="111.05205"
-     inkscape:cy="198.4252"
+     inkscape:zoom="3.6491353"
+     inkscape:cx="154.07113"
+     inkscape:cy="270.28555"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer25"
+     inkscape:current-layer="g8687"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1016"
      inkscape:window-x="0"
      inkscape:window-y="27"
-     inkscape:window-maximized="1" />
+     inkscape:window-maximized="1"
+     showguides="false" />
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -473,7 +474,7 @@
          id="text8685"
          y="11.111254"
          x="40.941513"
-         style="font-style:normal;font-weight:normal;font-size:4.23333333px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         style="font-style:normal;font-weight:normal;font-size:4.58611111px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
          xml:space="preserve"
          inkscape:export-filename="/home/marc/Daten.2019/code/Hackers-Cardgame/png/EN/e1.png"
          inkscape:export-xdpi="363.92001"
@@ -482,12 +483,12 @@
            y="11.111254"
            x="40.941513"
            sodipodi:role="line"
-           id="tspan17766">Vacuum / Electron</tspan><tspan
+           id="tspan20875">Elektronen</tspan><tspan
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:GNUTypewriter;-inkscape-font-specification:GNUTypewriter;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.26458332"
-           y="15.662913"
+           y="15.514913"
            x="40.941513"
            sodipodi:role="line"
-           id="tspan20875">Tube</tspan></text>
+           id="tspan417">Röhre</tspan></text>
     </g>
     <g
        style="display:none"
