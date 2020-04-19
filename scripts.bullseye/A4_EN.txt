@@ -11,6 +11,7 @@
 ../cards/EN/hacking/concepts/co5.svg
 ../cards/EN/hacking/concepts/co3.svg
 ../cards/EN/hacking/question/q1.svg
+../cards/EN/hacking/coding/src1.svg
 ../cards/EN/hacking/cpu/cpu1.svg
 ../cards/EN/hacking/iso-osi/stsct1.svg
 ../cards/EN/hacking/iso-osi/stsct3.svg
